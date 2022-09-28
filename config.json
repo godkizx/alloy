@@ -2,6 +2,6 @@
     "port": "8080",
     "ssl": false,
     "prefix": "/web/",
-    "localAddresses": [],
-    "blockedHostnames": []
+    "localAddresses": [10.170.112.42],
+    "blockedHostnames": [http://lsrelay-config-production.s3.amazonaws.com/]
 }
